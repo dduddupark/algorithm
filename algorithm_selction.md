@@ -9,7 +9,7 @@
 
 
 ```markdown
-![Image](https://dduddupark.github.io/algorithm/select.png)
+![Image](https://dduddupark.github.io/algorithm/selection.PNG)
 ```
 
 ## 코드
