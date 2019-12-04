@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman
+
 # 선택정렬(selection sort)
 
 제자리 정렬 알고리즘의 하나
